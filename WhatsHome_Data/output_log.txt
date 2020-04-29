@@ -1,0 +1,68 @@
+Mono path[0] = 'F:/游戏制作作品集/MushRoom Jump (Game Jame 2019) release/WhatsHome_Data/Managed'
+Mono path[1] = 'F:/游戏制作作品集/MushRoom Jump (Game Jame 2019) release/WhatsHome_Data/Mono'
+Mono config path = 'F:/游戏制作作品集/MushRoom Jump (Game Jame 2019) release/WhatsHome_Data/Mono/etc'
+PlayerConnection initialized from F:/游戏制作作品集/MushRoom Jump (Game Jame 2019) release/WhatsHome_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55387
+Multi-casting "[IP] 192.168.128.13 [Port] 55387 [Flags] 2 [Guid] 4074889470 [EditorId] 3435434448 [Version] 1048832 [Id] WindowsPlayer(Alfred) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55387]
+PlayerConnection already initialized - listening to [0.0.0.0:55387]
+Player data archive not found at `F:/游戏制作作品集/MushRoom Jump (Game Jame 2019) release/WhatsHome_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   25.21.14.1788
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.219 seconds
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\游戏制作作品集\MushRoom Jump (Game Jame 2019) release\WhatsHome_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.139800 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587300 ms
+System memory in use before: 30.6 MB.
+System memory in use after: 30.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 912.
+Total: 0.292500 ms (FindLiveObjects: 0.034200 ms CreateObjectMapping: 0.020900 ms MarkObjects: 0.174200 ms  DeleteObjects: 0.062200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.845400 ms
+System memory in use before: 29.5 MB.
+System memory in use after: 29.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 912.
+Total: 0.211800 ms (FindLiveObjects: 0.022100 ms CreateObjectMapping: 0.020400 ms MarkObjects: 0.157700 ms  DeleteObjects: 0.011000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.626800 ms
+System memory in use before: 29.5 MB.
+System memory in use after: 29.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 912.
+Total: 0.317700 ms (FindLiveObjects: 0.031600 ms CreateObjectMapping: 0.031000 ms MarkObjects: 0.239000 ms  DeleteObjects: 0.015200 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 5f68 -> priority: 1 
+  Thread -> id: e88 -> priority: 1 
+  Thread -> id: 52c4 -> priority: 1 
+  Thread -> id: 11e4 -> priority: 1 
+  Thread -> id: e00 -> priority: 1 
+  Thread -> id: 6560 -> priority: 1 
